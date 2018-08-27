@@ -7,7 +7,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class GetScoreFrame extends JFrame{
+public class GetScoreFrame extends JFrame
+{
     JLabel playerNameJl;
     JTextField playerNameJtf;
     JButton scoreJb;
