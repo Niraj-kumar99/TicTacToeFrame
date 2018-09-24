@@ -1,7 +1,8 @@
 
 public class NewJDialog extends javax.swing.JDialog 
 {
-    public NewJDialog(java.awt.Frame parent, boolean modal) {
+    public NewJDialog(java.awt.Frame parent, boolean modal)
+    {
         super(parent, modal);
         initComponents();
     }
